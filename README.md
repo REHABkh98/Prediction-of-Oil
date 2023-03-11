@@ -17,4 +17,58 @@ In oil and petroleum exploration and development, artificial intelligence AI gai
 ![image](https://user-images.githubusercontent.com/102546752/224461688-f65fe74a-4b6b-42f9-a341-2bb2d0f3d010.png)
 
 ![image](https://user-images.githubusercontent.com/102546752/224461765-5b05b6c0-0770-4a37-b03a-872d2320ac46.png)
+ 
+![image](https://user-images.githubusercontent.com/102546752/224499304-7d90f932-5432-4056-8249-05a90f247f03.png)
+
+![image](https://user-images.githubusercontent.com/102546752/224500234-ef3cea43-3822-4ba1-8651-94560150d4f7.png)
+
+![image](https://user-images.githubusercontent.com/102546752/224499720-1c89ee6d-b443-4365-8482-b1ba08be2e72.png)
+![image](https://user-images.githubusercontent.com/102546752/224499810-2f0c0232-fd68-46d1-a276-cf84f6f1b65f.png)
+
+
+![‏‏لقطة الشاشة (17)](https://user-images.githubusercontent.com/102546752/224502032-88e20005-929c-4097-b614-d4b82108a531.png)
+![image](https://user-images.githubusercontent.com/102546752/224502126-e9accf8b-3703-4283-8030-a1cf7b95ff4d.png)
+
+![image](https://user-images.githubusercontent.com/102546752/224502168-68b3b5a1-2f43-4abb-9283-8288f8808a12.png)
+
+
+
+The Norwegian oil and gas company Equinor announced in June 2018 that it will make all of the data from the Norwegian continental shelf available for research and study. This gave academic institutions, students, and researchers worldwide permission to use this information in line with the Equinor Open Data License without the requirement for further written consent.
+The Volve production data was released in the form of an excel file made up of two (02) sheets, namely Daily Production Data and Monthly Production Data.
+
+we are motivated to apply a completely different approach based on Data-Driven applications, such that physics is being taught to the computer based on data only. This approach ensures that no complexity or assumptions are being made and that the results are purely generated from the fed data. Both linear and polynomial regression models are going to be used to predict the oil production from the data of the Volve field daily production.
+
+
+
+![image](https://user-images.githubusercontent.com/102546752/224502598-c2ba8127-5fd7-447d-80c4-bccd1ab9f07e.png)
+
+
+Apache Spark is a framework for data processing that can swiftly process operations on extremely large data sets and distribute processing operations over several computers, either alone or in conjunction with other distributed computing technologies
+
+
+![image](https://user-images.githubusercontent.com/102546752/224502879-97401f62-4b86-4ba1-a07f-f9e25f415485.png)
+![image](https://user-images.githubusercontent.com/102546752/224502965-aec11fcb-2a29-410e-857b-ab15df295eec.png)
+![image](https://user-images.githubusercontent.com/102546752/224503021-f317750a-696f-49cb-9d8b-6b4c1e893f6c.png)
+
+![image](https://user-images.githubusercontent.com/102546752/224503151-69ecf2ea-ce9f-4848-bf06-f964e6b5b6b6.png)
+
+![image](https://user-images.githubusercontent.com/102546752/224503254-ed7949c9-ecf8-468a-a6b2-7b1a3d66364a.png)
+![image](https://user-images.githubusercontent.com/102546752/224503271-7a9dbbb4-73c2-448e-95dc-69f16aec817c.png)
+![image](https://user-images.githubusercontent.com/102546752/224503329-c25405f8-e678-4c83-95a5-3f5c3f49c525.png)
+![image](https://user-images.githubusercontent.com/102546752/224503388-c7ba1ead-1596-466e-b42e-2bfdb334f4d4.png)
+![image](https://user-images.githubusercontent.com/102546752/224503402-064c3452-df09-41aa-85c8-b20bae10f7ac.png)
+
+The oil industry is in continuous progress and advancement, and so is the field of computer science, artificial intelligence, and machine learning. AI has proven to be quite helpful in all of the new fields since it makes analyzing data and using them for prediction much easier. In this study, we employed Linear Regression, which falls into the machine learning algorithms within artificial intelligence. The objective was to use this algorithm to produce highly accurate results for oil production prediction. Multiple variables have been chosen such as downhole temperature, pressure, DP tubing, annulus press, and choke size. The results achieved by our model are very close to the actual results which means this linear regression model is suitable for predicting the oil production values. 
+
+
+
+
+
+
+
+
+
+
+
+
 
